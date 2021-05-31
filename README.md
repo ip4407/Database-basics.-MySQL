@@ -1,2 +1,2 @@
-# Database-basics.-MySQL
+# Database-basics. MySQL
 Основы реляционных баз данных. MySQL
