@@ -1,0 +1,2 @@
+-- Поучение дампа 100 первых записей из таблицы help_keyword БД mysql
+mysqldump --where="true order by 'help_keyword_id' limit 100" mysql help_keyword > D:\mysql-help_keyword.sql
